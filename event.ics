@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20170815T190209Z
+DTSTART:20171003T073000Z
+DTEND:20171003T150000Z
+SUMMARY:SECURE Trend 2017
+LOCATION:Várkert Bazár (Budapest, I. kerület, Ybl Miklós-tér)
+DESCRIPTION:Az idei évben immár 3. alkalommal kerül megrendezésre az IT security piac kiemelkedő, FÜGGETLEN szakmai eseménye.
+
+A rendezvény az idei évben is ingyenes, de regisztrációhoz kötött lesz. A szakmai előadások és workshopok mellett pedig számos újdonságot is tartogat, nem utolsó sorban egy széleskörű szakmai kvízt, amelyben Önnek is lehetősége lesz lemérni szakmai tudását, felkészültségét. 
+
+A részletekkel, hamarosan jelentkezünk.
+END:VEVENT
+END:VCALENDAR
