@@ -8,11 +8,6 @@ SUMMARY:SECURE Trend 2017
 LOCATION:Várkert Bazár (Budapest, I. kerület, Ybl Miklós-tér)
 DESCRIPTION:Az idei évben immár 3. alkalommal kerül megrendezésre az IT security piac kiemelkedő, FÜGGETLEN szakmai eseménye.
 BEGIN:VALARM
-TRIGGER:-PT24H
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-BEGIN:VALARM
 TRIGGER:-PT1W
 ACTION:DISPLAY
 DESCRIPTION:Reminder
