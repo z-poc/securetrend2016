@@ -1,0 +1,9 @@
+Teszt címek:
+Varga Viktória wiki.hun@gmail.com
+Svájger Árpád arpad.svajger@gmail.com
+
+FontFamily: Verdana
+spec-color: #4bc7fa
+web: stevents.hu
+
+
