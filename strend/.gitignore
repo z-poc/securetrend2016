@@ -11,3 +11,4 @@ yarn-error.log
 .env
 !/public/assets/js/vendor/
 !/public/assets/styles/vendor/
+/.DS_Store
