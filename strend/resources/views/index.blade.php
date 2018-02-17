@@ -80,7 +80,7 @@
 
 <!-- Google Maps -->
 <script src="{{ asset('assets/js/gmap.js') }}"></script>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA_Sb8DfpxY4C8xYQahR85s_Mw9nELsY1w"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDeLVvT9nk3BwFvodvKBxTob7hVdq0KdxE"></script>
 
 <!-- Google Analitics -->
 <script>
