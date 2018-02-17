@@ -28,11 +28,6 @@
         <!-- Map -->
         <div id="map-canvas" class="gmap map-boxed"></div>
 
-        <!-- Show Info Button -->
-        <div class="show-info-link">
-            <a href="#" class="show-info"><i class="fa fa-info"></i><h6>{{__('contactus.showinfo')}}</h6></a>
-        </div>
-
         <div class="container">
             <div class="row">
 
@@ -40,33 +35,19 @@
                 <div class="col-xs-offset-1 col-xs-11 col-md-offset-2 col-md-6 contact-info-wrapper">
                     <address>
                         <div class="row">
-
                             <!-- Phone -->
                             <div class="col-sm-6 address-group">
                                 <span>{{__('contactus.callme')}}</span>
                                 <p>{{__('contactus.mobil')}}</p>
-                                <p>{{__('contactus.vezetekes')}}</p>
                             </div>
-
-                            <!-- Address -->
-                            <div class="col-sm-5 address-group">
-                                <span>{{__('contactus.place')}}</span>
-                                <p>{{__('contactus.address')}}</p>
-                            </div>
-
                         </div><!-- / .row -->
 
                         <div class="row">
                             <!-- Email -->
                             <div class="col-sm-6 address-group">
                                 <span>{{__('contactus.email')}}</span>
-                                <a href="mailto:info@wic-way.com">{{__('contactus.mail')}}</a>
+                                <a href="mailto:info@stevents.hu">{{__('contactus.mail')}}</a>
                             </div>
-                        </div><!-- / .row -->
-
-                        <!-- Show Map Button -->
-                        <div class="row show-map-link">
-                            <a href="#" class="show-map"><span class="icon-map-pin"></span>{{__('contactus.showmap')}}</a>
                         </div><!-- / .row -->
                     </address>
                 </div><!-- / .contact-info-wrapper -->

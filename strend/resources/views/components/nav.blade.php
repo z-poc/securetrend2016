@@ -17,13 +17,6 @@
             <li><a onclick="window.location.hash = hash;" href="#services">{{__('nav.services')}}<span class="sr-only"></span></a></li>
             <li><a onclick="window.location.hash = hash;" href="#works">{{__('nav.projects')}}<span class="sr-only"></span></a></li>
             <li><a onclick="window.location.hash = hash;" href="#contactus">{{__('nav.contactus')}}<span class="sr-only"></span></a></li>
-            <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{__('nav.regio')}}<span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                    <li><a href="{{url('/en')}}">EN</a></li>
-                    <li><a href="{{url('/hu')}}">HU</a></li>
-                </ul>
-            </li>
         </ul>
     </div>
 </nav>

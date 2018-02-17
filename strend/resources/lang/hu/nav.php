@@ -3,7 +3,7 @@
 return [
 
     'nav' => 'Menü',
-    'home' => 'Home',
+    'home' => 'Főoldal',
     'services' => 'Szolgáltatásaink',
     'projects' => 'Munkáink',
     'contactus' => 'Kapcsolat',
