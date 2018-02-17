@@ -9,4 +9,5 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 .env
-
+!/public/assets/js/vendor/
+!/public/assets/styles/vendor/
