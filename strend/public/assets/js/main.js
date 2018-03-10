@@ -277,16 +277,16 @@
 						separator : ','
 					};
 					// Counter 1
-					var counter1 = new CountUp('count-1', 0, 2, 0, 3, options);
+					var counter1 = new CountUp('count-1', 0, 10, 0, 3, options);
 					counter1.start();
 					// Counter 2
-					var counter2 = new CountUp('count-2', 0, 14, 0, 3, options);
+					var counter2 = new CountUp('count-2', 0, 15000, 0, 3, options);
 					counter2.start();
 					// Counter 3
-					var counter3 = new CountUp('count-3', 0, 128, 0, 3, options);
+					var counter3 = new CountUp('count-3', 0, 60, 0, 3, options);
 					counter3.start();
 					// Counter 4
-					var counter4 = new CountUp('count-4', 0, 167, 0, 3, options);
+					var counter4 = new CountUp('count-4', 0, 40, 0, 3, options);
 					counter4.start();
 					// init only once
 					this.destroy();

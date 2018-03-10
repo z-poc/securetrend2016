@@ -13,10 +13,10 @@ return [
     'button' => 'KÉRJEN AJÁNLATOT!',
     'c1' => '10', //javascript-ből jön, ez csak a fallback-je (main.js)
     'ct1' => 'ÉV',
-    'c2' => '15000+', //javascript-ből jön, ez csak a fallback-je (main.js)
+    'c2' => '15000', //javascript-ből jön, ez csak a fallback-je (main.js)
     'ct2' => 'RÉSZTVEVŐ',
-    'c3' => '50+', //javascript-ből jön, ez csak a fallback-je (main.js)
+    'c3' => '60', //javascript-ből jön, ez csak a fallback-je (main.js)
     'ct3' => 'ÜGYFÉL',
-    'c4' => '100+', //javascript-ből jön, ez csak a fallback-je (main.js)
+    'c4' => '40', //javascript-ből jön, ez csak a fallback-je (main.js)
     'ct4' => 'ÜZLETI PARTNER',
 ];
