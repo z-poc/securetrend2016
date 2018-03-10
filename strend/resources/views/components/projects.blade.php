@@ -6,21 +6,10 @@
         </header>
     </div><!-- / .row -->
 
-    <!-- Filters -->
-    <div class="row">
-        <ul id="pfolio-filters" class="portfolio-filters">
-            <li class="active"><a href="#" data-filter="*">{{__('projects.all')}}</a></li>
-            <li><a href="#" data-filter=".sales">{{__('projects.f1')}}</a></li>
-            <li><a href="#" data-filter=".marketing">{{__('projects.f2')}}</a></li>
-            <li><a href="#" data-filter=".hun">{{__('projects.f3')}}</a></li>
-            <li><a href="#" data-filter=".int">{{__('projects.f4')}}</a></li>
-        </ul>
-    </div>
-
     <div class="row">
         <div id="pfolio">
             <!-- Item 1 -->
-            <div class="col-md-4 portfolio-item hover-side sales marketing int hun">
+            <div class="col-md-4 portfolio-item hover-side">
                 <figure>
                     <img src="{{__('projects.i1_pic')}}" alt="Project Example">
                     <figcaption>
@@ -31,7 +20,7 @@
             </div><!-- / .portfolio-item -->
 
             <!-- Item 2 -->
-            <div class="col-md-4 portfolio-item hover-side sales marketing int hun">
+            <div class="col-md-4 portfolio-item hover-side">
                 <figure>
                     <img src="{{__('projects.i2_pic')}}" alt="Project Example">
                     <figcaption>
@@ -42,7 +31,7 @@
             </div><!-- / .portfolio-item -->
 
             <!-- Item 3 -->
-            <div class="col-md-4 portfolio-item hover-side marketing hun">
+            <div class="col-md-4 portfolio-item hover-side">
                 <figure>
                     <img src="{{__('projects.i3_pic')}}" alt="Project Example">
                     <figcaption>
@@ -53,7 +42,7 @@
             </div><!-- / .portfolio-item -->
 
             <!-- Item 4 -->
-            <div class="col-md-4 portfolio-item hover-side marketing hun">
+            <div class="col-md-4 portfolio-item hover-side">
                 <figure>
                     <img src="{{__('projects.i4_pic')}}" alt="Project Example">
                     <figcaption>
@@ -64,7 +53,7 @@
             </div><!-- / .portfolio-item -->
 
             <!-- Item 5 -->
-            <div class="col-md-4 portfolio-item hover-side sales int marketing hun">
+            <div class="col-md-4 portfolio-item hover-side">
                 <figure>
                     <img src="{{__('projects.i5_pic')}}" alt="Project Example">
                     <figcaption>
@@ -75,7 +64,7 @@
             </div><!-- / .portfolio-item -->
 
             <!-- Item 6 -->
-            <div class="col-md-4 portfolio-item hover-side sales hun">
+            <div class="col-md-4 portfolio-item hover-side">
                 <figure>
                     <img src="{{__('projects.i6_pic')}}" alt="Project Example">
                     <figcaption>
@@ -84,40 +73,6 @@
                     </figcaption>
                 </figure>
             </div><!-- / .portfolio-item -->
-
-            <!-- Item 7 -->
-            <div class="col-md-4 portfolio-item hover-side sales hun">
-                <figure>
-                    <img src="{{__('projects.i7_pic')}}" alt="Project Example">
-                    <figcaption>
-                        <h5 class="hover-heading">{{__('projects.i7_h5')}}</h5>
-                        <p class="hover-text">{{__('projects.i7_p')}}</p>
-                    </figcaption>
-                </figure>
-            </div><!-- / .portfolio-item -->
-
-            <!-- Item 8 -->
-            <div class="col-md-4 portfolio-item hover-side marketing sales int hun">
-                <figure>
-                    <img src="{{__('projects.i8_pic')}}" alt="Project Example">
-                    <figcaption>
-                        <h5 class="hover-heading">{{__('projects.i8_h5')}}</h5>
-                        <p class="hover-text">{{__('projects.i8_p')}}</p>
-                    </figcaption>
-                </figure>
-            </div><!-- / .portfolio-item -->
-
-            <!-- Item 9-->
-            <div class="col-md-4 portfolio-item hover-side marketing                                                                                  sales hun">
-                <figure>
-                    <img src="{{__('projects.i9_pic')}}" alt="Project Example">
-                    <figcaption>
-                        <h5 class="hover-heading">{{__('projects.i9_h5')}}</h5>
-                        <p class="hover-text">{{__('projects.i9_p')}}</p>
-                    </figcaption>
-                </figure>
-            </div><!-- / .portfolio-item -->
-
         </div><!-- / #pfolio -->
     </div><!-- / .row -->
 </section><!-- / .portfolio-columns-fw -->
