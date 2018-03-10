@@ -3,7 +3,7 @@
 return [
 
     'heading' => 'HOGYAN DOLGOZUNK MI?',
-    'subheading' => 'ADATOT GYŰJTÜNK, ELEMZÜNK, TERVEZÜNK, MEGVALÓSÍTUNK, MÉRÜNK, OKTATUNK, TÁMOGATUNK',
+    'subheading' => 'FELMÉRJÜK AZ IGÉNYEKET, ELEMZÜNK, TERVEZÜNK, MEGVALÓSÍTUNK, OKTATUNK, TÁMOGATUNK',
     'i1_h4' => 'TERVEZÉS',
     'i1_p' => 'Együtt veled közösen meghatározzuk a célt, kidolgozzuk az ötleteket és akciótervet készítünk. Összerakjuk a kölségvetést, időzítünk és erőforrást teszünk mellé. Vizsgáljuk az esetleges nehézségeket és kiosztjuk a feladatokat.',
     'i2_h4' => 'MEGVALÓSÍTÁS',
