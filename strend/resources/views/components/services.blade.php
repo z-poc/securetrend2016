@@ -4,7 +4,6 @@
 
             <header class="sec-heading">
                 <h2>{{__('services.heading')}}</h2>
-                <span class="subheading">{{__('services.subheading')}}</span>
             </header>
 
             <!-- Item 1 -->
