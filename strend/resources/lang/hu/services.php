@@ -11,7 +11,7 @@ return [
     'i3_h4' => 'Szállítás - Az idő és a minőség pénz!',
     'i3_p' => 'Megtapasztaltam, milyen az amikor nem érkeznek meg időben a szükséges eszközök, vagy éppen sokkal korábban jönnek. Ezért teherautóparkunk segítségével pontosan időben tudjuk vállalni rendezvények eszközeinek szállítását. Legyen szó promóciós kitelepülésről, vagy nagy mennyiségű eszközt mozgató rendezvényekről.',
     'i4_h4' => 'Előadói tréning - Motiválj, változtass!  - Legyél eredményes!',
-    'i4_p' => 'Jó maga szembesülök folyamatosan azzal a problémával, hogy egy egy előadó a maga területén kiemelkedő tudással bír, de kiadni magából mások elött szinte képtelen. Abban is segítünk, hogy a rendezvényen szereplő kollégáid szintről szintre lépkedve érezzék konfortosan magukat előadásaik közben. Ezzel is elősegítve az esemény sikerét.',
+    'i4_p' => 'Jó magam szembesülök folyamatosan azzal a problémával, hogy egy egy előadó a maga területén kiemelkedő tudással bír, de kiadni magából mások elött szinte képtelen. Abban is segítünk, hogy a rendezvényen szereplő kollégáid szintről szintre lépkedve érezzék konfortosan magukat előadásaik közben. Ezzel is elősegítve az esemény sikerét.',
     'i5_h4' => 'Kiállítás tervezés és kivitelezés - Mutass többet magadból!',
     'i5_p' => 'Fontos, hogy a megjelenésünk ne legyen elnagyolt, tükrözze cégünket vagy tevékenységünket. Az ördög a részletekben rejlik, ezért nem csak segítünk kitalálni megjelenését kiállításokon, de a kivitelezést is átvállajuk. Saját gyártású rendezvényeinken alkalmanként 14-16 standot is építünk partnereinkenk, ezért merjük bevállalni ezt a kihívást másoknak is.',
     'i6_h4' => 'Üzemeltetés, raktározás - Te csak megérkezel!',
