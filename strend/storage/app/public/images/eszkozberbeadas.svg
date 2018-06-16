@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="55px" viewBox="0 0 54 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>std_ikonok</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eszkozberbeadas" transform="translate(1.000000, 0.000000)" stroke="#000000">
+            <path d="M0.5,27.5 L51.5,27.5" id="Line-23" stroke-linecap="square"></path>
+            <path d="M26,54 C40.3594035,54 52,42.1355459 52,27.5 C52,12.8644541 40.3594035,0.741210938 26,0.741210938 C11.6405965,0.741210938 0,12.8644541 0,27.5 C0,42.1355459 11.6405965,54 26,54 Z" id="Oval-3"></path>
+            <path d="M5.5,11.5 C11.3092448,16.3359375 18.3092448,18.7539062 26.5,18.7539062 C34.6907552,18.7539062 41.4903971,16.5952148 46.8989258,12.277832" id="Line-26" stroke-linecap="square"></path>
+            <path d="M5,36 C10.8092448,40.8359375 17.8092448,43.2539062 26,43.2539062 C34.1907552,43.2539062 41.1907552,40.8359375 47,36" id="Line-26" stroke-linecap="square" transform="translate(26.000000, 39.626953) scale(-1, -1) translate(-26.000000, -39.626953) "></path>
+            <path d="M25.5,1.5 C21.0638021,6.09960938 18.8457031,15.1858724 18.8457031,28.7587891 C18.8457031,42.3317057 21.0638021,50.578776 25.5,53.5" id="Line-27" stroke-linecap="square"></path>
+            <path d="M32.6542969,1 C28.218099,5.59960938 26,14.6858724 26,28.2587891 C26,41.8317057 28.218099,50.078776 32.6542969,53" id="Line-27" stroke-linecap="square" transform="translate(29.327148, 27.000000) scale(-1, 1) translate(-29.327148, -27.000000) "></path>
+            <path d="M25.6542969,1 C14.485026,5.59960938 8.90039062,14.6858724 8.90039062,28.2587891 C8.90039062,41.8317057 14.485026,50.3673503 25.6542969,53.8657227" id="Line-27" stroke-linecap="square"></path>
+            <path d="M42.7539062,1 C31.5846354,5.59960938 26,14.6858724 26,28.2587891 C26,41.8317057 31.5846354,50.3673503 42.7539062,53.8657227" id="Line-27" stroke-linecap="square" transform="translate(34.376953, 27.432861) scale(-1, 1) translate(-34.376953, -27.432861) "></path>
+        </g>
+    </g>
+</svg>
